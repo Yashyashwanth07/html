@@ -1,0 +1,1 @@
+This project is a comprehensive Payment Apps Platform designed using HTML, CSS, Bootstrap, and extensive JavaScript for both the front-end and back-end. The platform aims to provide users with a seamless and secure payment experience.
